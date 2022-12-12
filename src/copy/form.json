@@ -1,0 +1,4 @@
+{
+  "usernameErrorMessage": "Username requires at least three letters",
+  "passwordErrorMessage": "Password should be at least 8 characters long"
+}

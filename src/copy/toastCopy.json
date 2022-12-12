@@ -1,0 +1,20 @@
+{
+  "notAuthenticated": {
+    "id": "NOT_AUTHENTICATED",
+    "message": "Your session has expired, please log in again.",
+    "variant": "error",
+    "dismissIn": 2000
+  },
+  "loginRejected": {
+    "id": "LOGIN_REJECTED",
+    "message": "There was a problem logging you in. Please refresh and try again.",
+    "variant": "error",
+    "dismissIn": 3000
+  },
+  "loginSuccess": {
+    "id": "LOGIN_SUCCESS",
+    "message": "You are logged in!",
+    "variant": "success",
+    "dismissIn": 1000
+  }
+}

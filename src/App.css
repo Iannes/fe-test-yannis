@@ -1,0 +1,7 @@
+.home-page-layout {
+  width: 400px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}

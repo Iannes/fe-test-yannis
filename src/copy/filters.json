@@ -1,0 +1,9 @@
+{
+  "filterItems": [
+    { "copy": "All", "filter": "all" },
+    { "copy": "Archived", "filter": "archived" },
+    { "copy": "Answered", "filter": "answered" },
+    { "copy": "Missed", "filter": "missed" }
+  ],
+  "dropDownTitle": "Filters"
+}
